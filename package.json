@@ -9,11 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@breezystack/lamejs": "^1.2.7",
+    "canvas-confetti": "^1.9.4",
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.59.0",
+    "mediabunny": "^1.61.6",
+    "mp4-muxer": "^5.2.2",
+    "mp4box": "^2.4.1",
     "next": "16.4.2",
+    "pdf-lib": "^1.17.1",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/jszip": "^3.4.1",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
